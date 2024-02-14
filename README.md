@@ -37,7 +37,9 @@ The app will save the QR code image with the provided name.
 
 ## Dependencies
 Tkinter
+
 Pillow
+
 qrcode
 
 ## Author
